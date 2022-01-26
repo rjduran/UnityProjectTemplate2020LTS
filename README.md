@@ -9,3 +9,5 @@ To use this template:
 3. Open Unity Hub and choose "Add project from disk" from Open Button dropdown.
 4. Open the project in Unity 2020.3.x and work.
 5. Commit all changes made to your project repository and share!
+
+[Youtube Tutorial](https://www.youtube.com/watch?v=kq8mpgtFrNk)
